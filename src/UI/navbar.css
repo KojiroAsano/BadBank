@@ -1,0 +1,9 @@
+.nav-link:hover {
+    font-size: large;
+}
+
+.navbar-brand:hover{
+    font-size: 130%
+}
+
+.active{font-weight: bold;}
