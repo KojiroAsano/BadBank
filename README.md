@@ -7,6 +7,7 @@
 <img src = "badbank3.png" width = '400'/> <img src = "badbank4.png" width = '400'/>
 </div>
 
+
 ## Description:
   This is the bank application. Throught this application, People can create their account, login account, deposit and withdraw money.
   
@@ -40,7 +41,8 @@
   > I want to add firebase authentication and make this bad bank to good bank.
   
 ## Technology
-  > [React.js] (https://reactjs.org/)
+  > [React.js](https://reactjs.org/) <br>
+  > 
   > [React Bootstap](https://react-bootstrap.github.io/)
 
 ## License information: 
