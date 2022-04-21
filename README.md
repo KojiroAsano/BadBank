@@ -8,7 +8,7 @@
 </div>
 
 ## Description:
-  This is the bank application. Throught this application, People can create their account, login account, deposit and withdraw money. 
+  This is the bank application. Throught this application, People can create their account, login account, deposit and withdraw money.
   
 ## Installation:
   1. Click "Code", choose "SSH" and copy the link.
@@ -37,7 +37,12 @@
   
 ## Roadmap:
   > I will update AWS page too.
+  > I want to add firebase authentication and make this bad bank to good bank.
   
+## Technology
+  > [React.js] (https://reactjs.org/)
+  > [React Bootstap](https://react-bootstrap.github.io/)
+
 ## License information: 
 
 >Copyright 2022 Kojiro Asano
